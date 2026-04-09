@@ -1,0 +1,16 @@
+{
+  "name": "ultimate-ddos-tester",
+  "version": "3.0.0",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "ws": "^8.14.2",
+    "quic": "^0.1.0",
+    "chart.js": "^4.4.0",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "pdfkit": "^0.15.0",
+    "d3-array": "^3.2.4"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
